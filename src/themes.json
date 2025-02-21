@@ -1,0 +1,10 @@
+{
+    "happy": {"bg": "#FFD700", "fg": "#000000"},
+    "sad": {"bg": "#4682B4", "fg": "#FFFFFF"},
+    "motivated": {"bg": "#32CD32", "fg": "#000000"},
+    "calm": {"bg": "#87CEEB", "fg": "#000000"},
+    "excited": {"bg": "#FFA500", "fg": "#000000"},
+    "relaxed": {"bg": "#B0E0E6", "fg": "#000000"},
+    "focused": {"bg": "#808080", "fg": "#FFFFFF"},
+    "stressed": {"bg": "#FF6347", "fg": "#FFFFFF"}
+}
